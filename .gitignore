@@ -3,6 +3,7 @@ HELP.md
 .gradle
 .venv
 .ipynb_checkpoints
+/code/data/
 
 ### IntelliJ IDEA ###
 .idea
